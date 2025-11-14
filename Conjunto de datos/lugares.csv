@@ -1,0 +1,851 @@
+ciudad,depto,id.depto,id.ciudad,ccz,barrio
+Montevideo,Montevideo,1,1020,16,Reducto
+Montevideo,Montevideo,1,1020,14,La Teja
+Montevideo,Montevideo,1,1020,14,Belvedere
+Montevideo,Montevideo,1,1020,14,La Teja
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,14,Paso Molino
+Montevideo,Montevideo,1,1020,3,Aguada
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,17,Cerro
+Montevideo,Montevideo,1,1020,2,Cordón
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,15,Cerrito
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,15,Prado
+Montevideo,Montevideo,1,1020,7,Malvín
+Montevideo,Montevideo,1,1020,2,Cordón
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,7,Punta Gorda
+Canelones,Canelones,3,3320,,Interior
+Montevideo,Montevideo,1,1020,12,Colón
+Montevideo,Montevideo,1,1020,3,Reducto
+Montevideo,Montevideo,1,1020,8,Carrasco
+Montevideo,Montevideo,1,1020,4,Parque Batlle
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,9,Punta de Rieles
+Montevideo,Montevideo,1,1020,2,Palermo
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,7,Buceo
+Piriápolis,Maldonado,10,10523,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,9,Maroñas
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,1,Barrio Sur
+Montevideo,Montevideo,1,1020,5,Punta Carretas
+Montevideo,Montevideo,1,1020,14,Belvedere
+Montevideo,Montevideo,1,1020,8,Carrasco
+Montevideo,Montevideo,1,1020,7,Malvín
+Montevideo,Montevideo,1,1020,7,Malvín
+Montevideo,Montevideo,1,1020,4,Parque Batlle
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,5,Pocitos
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,2,Centro
+Punta del Este,Maldonado,10,10320,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Atlántida,Canelones,3,3621,,Interior
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Punta del Este,Maldonado,10,10524,,Interior
+Pando,Canelones,3,3322,,Interior
+Montevideo,Montevideo,1,1020,16,Bella Vista
+Montevideo,Montevideo,1,1020,16,Prado
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,11,Atahualpa
+Montevideo,Montevideo,1,1020,8,Carrasco
+Montevideo,Montevideo,1,1020,5,Punta Carretas
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,6,Buceo
+Piriápolis,Maldonado,10,10523,,Interior
+Montevideo,Montevideo,1,1020,13,Sayago
+Florida,Florida,8,8220,,Interior
+Montevideo,Montevideo,1,1020,3,Goes
+Montevideo,Montevideo,1,1020,17,Cerro
+San José de Mayo,San José,16,16220,,Interior
+Melo,Cerro Largo,4,4220,,Interior
+Montevideo,Montevideo,1,1020,8,Malvín
+Pando,Canelones,3,3322,,Interior
+Artigas,Artigas,2,2220,,Interior
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,12,Colón
+Montevideo,Montevideo,1,1020,8,Carrasco
+Paysandú,Paysandú,11,11120,,Interior
+Young,Río Negro,12,12421,,Interior
+Fray Bentos,Río Negro,12,12320,,Interior
+Montevideo,Montevideo,1,1020,6,Unión
+Paysandú,Paysandú,11,11120,,Interior
+Rosario,Colonia,5,5422,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Juan Lacaze,Colonia,5,5323,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Melo,Cerro Largo,4,4220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Paysandú,Paysandú,11,11120,,Interior
+Canelones,Canelones,3,3320,,Interior
+Carmelo,Colonia,5,5321,,Interior
+Montevideo,Montevideo,1,1020,14,Paso Molino
+Paysandú,Paysandú,11,11120,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Rocha,Rocha,14,14320,,Interior
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Trinidad,Flores,7,7320,,Interior
+Artigas,Artigas,2,2220,,Interior
+Salto,Salto,15,15120,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+Treinta y Tres,Treinta y Tres,19,19220,,Interior
+Montevideo,Montevideo,1,1020,2,Cordón
+Paysandú,Paysandú,11,11120,,Interior
+Rivera,Rivera,13,13220,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Aiguá,Maldonado,10,10521,,Interior
+Chuy,Rocha,14,14521,,Interior
+La Pedrera,Rocha,14,14942,,Interior
+Maldonado,Maldonado,10,10969,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Piriápolis,Maldonado,10,10523,,Interior
+Treinta y Tres,Treinta y Tres,19,19220,,Interior
+Balneario Solís,Maldonado,10,10828,,Interior
+Cuchilla Alta,Canelones,3,3935,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Lascano,Rocha,14,14422,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Piriápolis,Maldonado,10,10523,,Interior
+Treinta y Tres,Treinta y Tres,19,19220,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Barra de Maldonado,Maldonado,10,10942,,Interior
+La Paloma,Rocha,14,14722,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Pan de Azúcar,Maldonado,10,10522,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+La Paloma,Rocha,14,14722,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Piriápolis,Maldonado,10,10523,,Interior
+Río Branco,Cerro Largo,4,4522,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+Treinta y Tres,Treinta y Tres,19,19220,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Santa Lucía,Canelones,3,3323,,Interior
+Montevideo,Montevideo,1,1020,2,Tres Cruces
+Melo,Cerro Largo,4,4220,,Interior
+Montevideo,Montevideo,1,1020,9,Punta de Rieles
+Montevideo,Montevideo,1,1020,18,Paso de la Arena
+Montevideo,Montevideo,1,1020,14,La Teja
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,3,Brazo Oriental
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,8,Carrasco
+Montevideo,Montevideo,1,1020,6,Unión
+Maldonado,Maldonado,10,10320,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,15,Prado
+Atlántida,Canelones,3,3621,,Interior
+Montevideo,Montevideo,1,1020,8,Carrasco
+Rivera,Rivera,13,13220,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,4,Buceo
+Montevideo,Montevideo,1,1020,7,Buceo
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,3,Cordón
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,11,Cerrito
+Montevideo,Montevideo,1,1020,16,Aguada
+Montevideo,Montevideo,1,1020,5,Parque Batlle
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,2,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,5,Parque Rodó
+Montevideo,Montevideo,1,1020,3,Reducto
+Montevideo,Montevideo,1,1020,6,Buceo
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Barrio Sur
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Montevideo,Montevideo,1,1020,12,Colón
+Montevideo,Montevideo,1,1020,13,Sayago
+Montevideo,Montevideo,1,1020,15,Aires Puros
+Montevideo,Montevideo,1,1020,8,Carrasco
+Montevideo,Montevideo,1,1020,2,La Comercial
+Montevideo,Montevideo,1,1020,2,Tres Cruces
+Montevideo,Montevideo,1,1020,7,Buceo
+Montevideo,Montevideo,1,1020,5,Pocitos
+Florida,Florida,8,8220,,Interior
+La Paz,Canelones,3,3321,,Interior
+Montevideo,Montevideo,1,1020,11,Pérez Castellanos
+Montevideo,Montevideo,1,1020,14,La Teja
+Montevideo,Montevideo,1,1020,2,Cordón
+Trinidad,Flores,7,7320,,Interior
+Montevideo,Montevideo,1,1020,8,Malvín
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,11,Piedras Blancas
+Montevideo,Montevideo,1,1020,10,Piedras Blancas
+Montevideo,Montevideo,1,1020,6,Unión
+Mercedes,Soriano,17,17220,,Interior
+Montevideo,Montevideo,1,1020,9,Punta de Rieles
+Montevideo,Montevideo,1,1020,11,Buceo
+Montevideo,Montevideo,1,1020,6,Malvín
+Salto,Salto,15,15120,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Montevideo,Montevideo,1,1020,17,Cerro
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,2,Cordón
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Libertad,San José,16,16421,,Interior
+Montevideo,Montevideo,1,1020,13,Sayago
+Montevideo,Montevideo,1,1020,5,Pocitos
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,10,Casavalle
+Montevideo,Montevideo,1,1020,13,Peñarol
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,13,Lavalleja
+Montevideo,Montevideo,1,1020,2,Palermo
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Canelones,Canelones,3,3320,,Interior
+Montevideo,Montevideo,1,1020,3,Peñarol
+Montevideo,Montevideo,1,1020,4,Buceo
+Montevideo,Montevideo,1,1020,,Malvín
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,11,Pérez Castellanos
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,5,Pocitos
+Rocha,Rocha,14,14320,,Interior
+Rocha,Rocha,14,14320,,Interior
+La Paloma,Rocha,14,14722,,Interior
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,5,Pocitos
+Salto,Salto,15,15120,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,10,Piedras Blancas
+Montevideo,Montevideo,1,1020,10,Piedras Blancas
+Montevideo,Montevideo,1,1020,12,Peñarol
+Montevideo,Montevideo,1,1020,18,Paso de la Arena
+Montevideo,Montevideo,1,1020,11,Brazo Oriental
+Libertad,San José,16,16421,,Interior
+La Floresta,Canelones,3,3724,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,18,Casabó
+La Paloma,Rocha,14,14722,,Interior
+Salto,Salto,15,15120,,Interior
+Montevideo,Montevideo,1,1020,11,Toledo Chico
+Paysandú,Paysandú,11,11120,,Interior
+Montevideo,Montevideo,1,1020,11,Piedras Blancas
+Young,Río Negro,12,12421,,Interior
+Montevideo,Montevideo,1,1020,5,Larrañaga
+Montevideo,Montevideo,1,1020,12,Colón
+Salto,Salto,15,15120,,Interior
+Salto,Salto,15,15120,,Interior
+Montevideo,Montevideo,1,1020,9,Ituzaingó
+Salto,Salto,15,15120,,Interior
+Montevideo,Montevideo,1,1020,14,Casabó
+Montevideo,Montevideo,1,1020,18,Paso de la Arena
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Rocha,Rocha,14,14320,,Interior
+Montevideo,Montevideo,1,1020,18,Paso de la Arena
+San José de Mayo,San José,16,16220,,Interior
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,1,Aguada
+Florida,Florida,8,8220,,Interior
+Florida,Florida,8,8220,,Interior
+Delta del Tigre,San José,16,16521,,Interior
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Rivera,Rivera,13,13220,,Interior
+Progreso,Canelones,3,3421,,Interior
+Montevideo,Montevideo,1,1020,10,Manga
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Florida,Florida,8,8220,,Interior
+Montevideo,Montevideo,1,1020,12,Nuevo París
+Barros Blancos,Canelones,3,3521,,Interior
+Barros Blancos,Canelones,3,3521,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+La Floresta,Canelones,3,3724,,Interior
+La Paz,Canelones,3,3321,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Progreso,Canelones,3,3421,,Interior
+Santa Lucía,Canelones,3,3323,,Interior
+Sauce,Canelones,3,3527,,Interior
+Joaquín Suarez,Canelones,3,3524,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Nueva Helvecia,Colonia,5,5421,,Interior
+Tarariras,Colonia,5,5522,,Interior
+Tarariras,Colonia,5,5522,,Interior
+Durazno,Durazno,6,6220,,Interior
+Durazno,Durazno,6,6220,,Interior
+Trinidad,Flores,7,7320,,Interior
+Trinidad,Flores,7,7320,,Interior
+Piriápolis,Maldonado,10,10523,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,3,Goes
+Montevideo,Montevideo,1,1020,1,Aguada
+Montevideo,Montevideo,1,1020,1,Ciudad Vieja
+Montevideo,Montevideo,1,1020,13,Sayago
+Montevideo,Montevideo,1,1020,4,Parque Batlle
+Montevideo,Montevideo,1,1020,14,Belvedere
+Montevideo,Montevideo,1,1020,6,Unión
+Montevideo,Montevideo,1,1020,11,Manga
+Montevideo,Montevideo,1,1020,5,Pocitos
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,13,Sayago
+Montevideo,Montevideo,1,1020,13,Sayago
+Montevideo,Montevideo,1,1020,8,Carrasco Norte
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,11,Mercado Modelo
+Montevideo,Montevideo,1,1020,11,Cerrito
+Montevideo,Montevideo,1,1020,12,Lezica
+Montevideo,Montevideo,1,1020,9,Villa García
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,8,Malvín
+Montevideo,Montevideo,1,1020,6,La Blanqueada
+Montevideo,Montevideo,1,1020,11,Ituzaingó
+Montevideo,Montevideo,1,1020,1,Centro
+Montevideo,Montevideo,1,1020,2,Barrio Sur
+Montevideo,Montevideo,1,1020,10,Sayago
+Montevideo,Montevideo,1,1020,14,Belvedere
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,9,Maroñas
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,12,Colón
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,18,Paso de la Arena
+Montevideo,Montevideo,1,1020,12,Colón
+Montevideo,Montevideo,1,1020,9,Malvín
+Montevideo,Montevideo,1,1020,15,Prado
+Montevideo,Montevideo,1,1020,7,Malvín
+Montevideo,Montevideo,1,1020,9,Jardines del Hipódromo
+Montevideo,Montevideo,1,1020,14,Nuevo París
+Montevideo,Montevideo,1,1020,2,Parque Rodó
+Montevideo,Montevideo,1,1020,16,Bella Vista
+Montevideo,Montevideo,1,1020,2,Tres Cruces
+Montevideo,Montevideo,1,1020,14,Belvedere
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,14,Paso Molino
+Montevideo,Montevideo,1,1020,4,La Blanqueada
+Montevideo,Montevideo,1,1020,8,Malvín
+Montevideo,Montevideo,1,1020,4,Larrañaga
+Montevideo,Montevideo,1,1020,1,Ciudad Vieja
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,3,Brazo Oriental
+Montevideo,Montevideo,1,1020,2,Cordón
+Montevideo,Montevideo,1,1020,11,Prado
+La Paloma,Rocha,14,14722,,Interior
+Salto,Salto,15,15120,,Interior
+Salto,Salto,15,15120,,Interior
+San José de Mayo,San José,16,16220,,Interior
+San José de Mayo,San José,16,16220,,Interior
+San José de Mayo,San José,16,16220,,Interior
+San José de Mayo,San José,16,16220,,Interior
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Montevideo,Montevideo,1,1020,,Sayago
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,3,3959,9,Maroñas
+Rocha,Rocha,14,14320,,Interior
+Rocha,Rocha,14,14320,,Interior
+Salto,Salto,15,15120,,Interior
+La Paz,Canelones,3,3321,,Interior
+Montevideo,Montevideo,1,1020,,Goes
+Rivera,Rivera,13,13220,,Interior
+Tranqueras,Rivera,13,13522,,Interior
+Ciudad del Plata,San José,16,16824,,Interior
+Montevideo,Montevideo,1,1020,,Mercado Modelo
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Rivera,Rivera,13,13220,,Interior
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Rocha,Rocha,14,14320,,Interior
+La Paloma,Rocha,14,14722,,Interior
+Ciudad del Plata,San José,16,16824,,Interior
+Libertad,San José,16,16421,,Interior
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Atlántida,Canelones,3,3621,,Interior
+Montevideo,Montevideo,1,1020,,Punta Gorda
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Barrio Sur
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Atahualpa
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,,Sayago
+Pando,Canelones,3,3322,,Interior
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Piriápolis,Maldonado,10,10523,,Interior
+Montevideo,Montevideo,1,1020,,Prado
+Montevideo,Montevideo,1,1020,,Carrasco
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Prado
+Montevideo,Montevideo,1,1020,,Goes
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Carrasco
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Prado
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Buceo
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Colón
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Unión
+Las Piedras,Canelones,3,3221,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,3,3322,,Larrañaga
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,18,18220,,Malvín
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Ciudad de la Costa,Canelones,3,3727,,Interior
+Montevideo,Montevideo,7,7320,,Carrasco
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,3,3525,,Pocitos
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Buceo
+Ciudad de la Costa,Canelones,3,3732,,Interior
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Prado
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Ciudad de la Costa,Canelones,16,16220,,Interior
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+San Carlos,Maldonado,10,10321,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Paso de la Arena
+Montevideo,Montevideo,1,1020,,Capurro
+Montevideo,Montevideo,10,10942,,Pocitos
+Montevideo,Montevideo,1,1020,,Sayago
+Montevideo,Montevideo,1,1020,,Punta Gorda
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Carrasco
+Melo,Cerro Largo,4,4220,,Interior
+Melo,Cerro Largo,4,4220,,Interior
+Melo,Cerro Largo,4,4220,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Young,Río Negro,12,12421,,Interior
+Young,Río Negro,12,12421,,Interior
+Montevideo,Montevideo,1,1020,,Buceo
+Montevideo,Montevideo,1,1020,,La Teja
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Atlántida,Canelones,3,3621,,Interior
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Maldonado,Maldonado,10,10320,,Interior
+Pando,Canelones,3,3322,,Interior
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Centro
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,1,Aguada
+Montevideo,Montevideo,1,1020,,Buceo
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Cerro
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Salto,Salto,15,15120,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Mercedes,Soriano,17,17220,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Unión
+Mercedes,Soriano,17,17220,,Interior
+Salto,Salto,15,15120,,Interior
+Fray Bentos,Río Negro,12,12320,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Trinidad,Flores,7,7320,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Durazno,Durazno,6,6220,,Interior
+Durazno,Durazno,6,6220,,Interior
+Rivera,Rivera,13,13220,,Interior
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Barrio Sur
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Palermo
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Pocitos
+Atlántida,Canelones,3,3621,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Larrañaga
+Montevideo,Montevideo,1,1020,,Barrio Sur
+Las Toscas,Canelones,3,3726,,Interior
+Pinares,Canelones,10,10830,,Interior
+Paso de los toros,Tacuarembó,18,18321,,Interior
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Carrasco Norte
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,1,Aguada
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,1,Aguada
+Montevideo,Montevideo,3,3985,,Piedras Blancas
+La Tuna,Canelones,1,1020,,Interior
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Buceo
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Prado
+Punta del Este,Maldonado,10,10969,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Punta del Este,Maldonado,10,10942,,Interior
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Portones
+Montevideo,Montevideo,1,1020,,La Comercial
+Montevideo,Montevideo,1,1020,,Goes
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,1,Aguada
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Montevideo,Montevideo,1,1020,,Malvín
+Las Piedras,Canelones,3,3221,,Interior
+Salto,Salto,15,15120,,Interior
+Rivera,Rivera,13,13220,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Piedras Blancas
+Montevideo,Montevideo,1,1020,,Centro
+Dolores,Soriano,17,17321,,Interior
+Sarandí Grande,Florida,8,8421,,Interior
+Las Flores,Maldonado,10,10945,,Interior
+San Carlos,Maldonado,10,10321,,Interior
+Montevideo,Montevideo,1,1020,,Cerro
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Centro
+Pando,Canelones,3,3322,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Las Piedras,Canelones,3,3221,,Interior
+Rocha,Rocha,14,14320,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Buceo
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Buceo
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Centro
+El Pinar,Canelones,3,3828,,Interior
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Unión
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Punta Gorda
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Pocitos
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Pocitos
+Lagomar,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Atlántida,Canelones,3,3621,,Interior
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Parque Batlle
+Montevideo,Montevideo,1,1020,,Trouville
+Montevideo,Montevideo,1,1020,,Nuevo París
+Montevideo,Montevideo,1,1020,,Carrasco
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Parque Rodó
+Montevideo,Montevideo,1,1020,,Pocitos
+Castillos,Rocha,14,14421,,Interior
+José Pedro Varela,Lavalleja,9,9522,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,,La Comercial
+Salto,Salto,15,15120,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,Colón
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Palermo
+Carmelo,Colonia,5,5321,,Interior
+Montevideo,Montevideo,1,1020,,Piedras Blancas
+Minas,Lavalleja,9,9220,,Interior
+Melo,Cerro Largo,4,4220,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Canelones,Canelones,3,3320,,Interior
+Cardona,Soriano,17,17521,,Interior
+Paso de los toros,Tacuarembó,18,18321,,Interior
+Rocha,Rocha,14,14320,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Pando,Canelones,3,3322,,Interior
+Lagomar,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Punta de Rieles
+San Carlos,Maldonado,10,10321,,Interior
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,,Prado
+Montevideo,Montevideo,1,1020,,Centro
+Pan de Azúcar,Maldonado,10,10522,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Fray Bentos,Río Negro,12,12320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,Pocitos
+Paso de los toros,Tacuarembó,18,18321,,Interior
+Dolores,Soriano,17,17321,,Interior
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Lezica
+Montevideo,Montevideo,1,1020,,Conciliación
+Montevideo,Montevideo,1,1020,,Mercado Modelo
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Montevideo,Montevideo,1,1020,,La Blanqueada
+Montevideo,Montevideo,1,1020,,Brazo Oriental
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Villa Española
+Montevideo,Montevideo,1,1020,,Manga
+Montevideo,Montevideo,1,1020,,Pocitos
+Altos la Tahona,Canelones,3,3997,,Interior
+Carmelo,Colonia,5,5321,,Interior
+Costa Azul,Canelones,3,3826,,Interior
+Parque del Plata,Canelones,3,3627,,Interior
+San Luis,Canelones,3,3834,,Interior
+La Floresta,Canelones,3,3724,,Interior
+Piriápolis,Maldonado,10,10523,,Interior
+Canelones,Canelones,3,3320,,Interior
+San Ramón,Canelones,3,3422,,Interior
+Santa Rosa,Canelones,3,3526,,Interior
+Ciudad del Plata,San José,16,16824,,Interior
+Ciudad del Plata,San José,16,16824,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,Capurro
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Montevideo,Montevideo,1,1020,,Lezica
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Salto,Salto,15,15120,,Interior
+Montevideo,Montevideo,1,1020,,Maroñas
+Nueva Helvecia,Colonia,5,5421,,Interior
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Maldonado,Maldonado,10,10320,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Punta Ballena,Maldonado,10,10956,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Nueva Palmira,Colonia,5,5423,,Interior
+Buenos Aires,Maldonado,10,10973,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,Cerro
+Tacuarembó,Tacuarembó,18,18220,,Interior
+Libertad,San José,16,16421,,Interior
+Pinamar,Canelones,3,3959,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Colonia del Sacramento,Colonia,5,5320,,Interior
+Punta del Este,Maldonado,10,1942,,Interior
+San José de Mayo,San José,16,16220,,Interior
+Montevideo,Montevideo,1,1020,,La Blanqueada
+José Ignacio,Maldonado,10,10939,,Interior
+Montevideo,Montevideo,1,1020,,Malvín
+Montevideo,Montevideo,1,1020,,Aguada
+San José de Mayo,San José,16,16220,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Centro
+Montevideo,Montevideo,1,1020,,Ciudad Vieja
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,La Comercial
+Montevideo,Montevideo,1,1020,,Centro
+Punta del Este,Maldonado,10,10524,,Interior
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Ciudad de la Costa,Canelones,3,3831,,Interior
+Las Piedras,Canelones,3,3221,,Interior
+Montevideo,Montevideo,1,1020,,La Comercial
+Montevideo,Montevideo,1,1020,,Peñarol
+Montevideo,Montevideo,1,1020,,Pajas Blancas
+Montevideo,Montevideo,1,1020,,Pajas Blancas
+Parque del Plata,Canelones,3,3627,,Interior
+La Paz,Canelones,3,3321,,Interior
+Pando,Canelones,3,3322,,Interior
+Pando,Canelones,3,3322,,Interior
+San José de Mayo,San José,16,16220,,Interior
+San José de Mayo,San José,16,16220,,Interior
+San José de Mayo,San José,16,16220,,Interior
+Playa Pascual,San José,16,16521,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Mercedes,Soriano,17,17220,,Interior
+Durazno,Durazno,6,6220,,Interior
+La Barra,Maldonado,10,10973,,Interior
+José Ignacio,Maldonado,10,10939,,Interior
+Piriapolis,Maldonado,10,10523,,Interior
+Punta del Este,Maldonado,10,1942,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Montevideo,Montevideo,1,1020,,Larrañaga
+Mercedes,Soriano,17,17220,,Interior
+Montevideo,Montevideo,1,1020,,Punta de Rieles
+Salto,Salto,15,15120,,Interior
+Piriapolis,Maldonado,10,10523,,Interior
+Durazno,Durazno,6,6220,,Interior
+Montevideo,Montevideo,1,1020,,Tres Cruces
+Florida,Florida,8,8220,,Interior
+Florida,Florida,8,8220,,Interior
+Florida,Florida,8,8220,,Interior
+Florida,Florida,8,8220,,Interior
+Florida,Florida,8,8220,,Interior
+Salto,Salto,15,15120,,Interior
+Piriapolis,Maldonado,10,10523,,Interior
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Montevideo,Montevideo,1,1020,,Maroñas
+Montevideo,Montevideo,1,1020,,Punta Carretas
+Fray Bentos,Río Negro,12,12320,,Interior
+Montevideo,Montevideo,1,1020,,Cordón
+Ecilda Paullier,San José,16,,,Interior
+Nueva Helvecia,Colonia,5,5421,,Interior
+Salto,Salto,15,15120,,Interior
+San Ramón,Canelones,3,3422,,Interior
+San Ramón,Canelones,3,3422,,Interior
+Fray Bentos,Río Negro,12,12320,,Interior
+Paysandú,Paysandú,11,11120,,Interior
+Paso de los Toros,Tacuarembó,18,18321,,Interior
+Montevideo,Montevideo,1,1020,,Aguada
+Montevideo,Montevideo,1,1020,,Centro
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,
+Río Branco,Cerro Largo,4,4522,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Progreso,Canelones,3,3421,,Interior
+Minas,Lavalleja,9,9220,,Interior
+Maldonado,Maldonado,10,10320,,Interior
+Montevideo,Montevideo,1,1020,,
+Montevideo,Montevideo,1,1020,,
+Salto,Salto,15,15120,,Interior
